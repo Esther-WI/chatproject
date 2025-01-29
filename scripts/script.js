@@ -95,18 +95,18 @@ do {
   count2++;
 } while (count2 < 5);
 
-const laptop = {
+const car = {
   brand: "Apple",
   model: "Macbook Pro",
   year: 2020,
   browse: function() {
-    console.log("SEarching object")
+    
   }
 
   };
 
-console.log(laptop.brand)
-console.log(laptop.browse)
+console.log(car.brand)
+console.log(car.browse)
 console.log("k")
 
 
